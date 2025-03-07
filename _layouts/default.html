@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">🏛 Inicio</a></li>
+            <li><a href="/UNIDADES/1AV/">📚 1AV</a></li>
+            <li><a href="/UNIDADES/2AV/">📚 2AV</a></li>
+            <li><a href="/UNIDADES/3AV/">📚 3AV</a></li>
+            <li><a href="/UNIDADES/EXTRA/">📂 Extra</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+
+        <div class="unit-navigation">
+            {% if page.previous %}
+                <a class="prev" href="{{ page.previous }}">⬅️ Anterior</a>
+            {% endif %}
+            {% if page.next %}
+                <a class="next" href="{{ page.next }}">Siguiente ➡️</a>
+            {% endif %}
+        </div>
+    </main>
+</body>
+</html>
