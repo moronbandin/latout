@@ -9,23 +9,24 @@
 <body>
     <nav>
         <ul>
-            <li><a href=".">🏛 Inicio</a></li>
-            <li><a href="UNIDADES/1AV">📚 1AV</a></li>
-            <li><a href="UNIDADES/2AV">📚 2AV</a></li>
-            <li><a href="UNIDADES/3AV">📚 3AV</a></li>
-            <li><a href="UNIDADES/EXTRA">📂 Extra</a></li>
+            <li><a href="{{ "/" | relative_url }}">🏛 Inicio</a></li>
+            <li><a href="{{ "/UNIDADES/1AV/" | relative_url }}">📚 1AV</a></li>
+            <li><a href="{{ "/UNIDADES/2AV/" | relative_url }}">📚 2AV</a></li>
+            <li><a href="{{ "/UNIDADES/3AV/" | relative_url }}">📚 3AV</a></li>
+            <li><a href="{{ "/UNIDADES/EXTRA/" | relative_url }}">📂 Extra</a></li>
         </ul>
     </nav>
 
     <main>
+        <h1>{{ page.title }}</h1>
         {{ content }}
 
         <div class="unit-navigation">
             {% if page.previous %}
-                <a class="prev" href="{{ page.previous }}">⬅️ Anterior</a>
+                <a class="prev" href="{{ page.previous | relative_url }}">⬅️ Anterior</a>
             {% endif %}
             {% if page.next %}
-                <a class="next" href="{{ page.next }}">Siguiente ➡️</a>
+                <a class="next" href="{{ page.next | relative_url }}">Siguiente ➡️</a>
             {% endif %}
         </div>
     </main>
