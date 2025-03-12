@@ -12,18 +12,18 @@ next: ./2/
 - La Hispania romana y la España actual.  
 
 ## Léxico y formación de palabras  
-### (1) *Vocābula nova*  
+### 1. *Vocābula nova*  
 - et, nōn, quoque, sed, -ne, ubi?, quid?  
 - fluvius, īnsula, oppidum.  
 - magnus, parvus, multī.  
 - Numerales (cardinales y ordinales) del 1 al 3.  
 
-### (2) Formación de palabras  
+### 2. Formación de palabras  
 - Léxico de la geografía específica del capítulo aplicado a diversas lenguas romances.  
 - Terminología técnica y científica derivada del latín.  
 - Comparativa entre los numerales específicos del capítulo en latín, francés, gallego, catalán, etc.  
 
-### (3) Evolución del léxico latino a las lenguas romances  
+### 3. Evolución del léxico latino a las lenguas romances  
 - Las lenguas romances de la península ibérica.  
 - Semejanzas y diferencias con los límites territoriales de cada provincia hispana en el Imperio Romano.  
 - Introducción a la evolución de los términos latinos a las lenguas romances: patrimonialismos, cultismos y semicultismos.  
