@@ -9,6 +9,13 @@ theme:
     - toc.integrate
     - search.highlight
     - search.suggest
+  palette:
+    scheme: default  # Puedes cambiar a 'default', 'slate', 'dracula', etc.
+    primary: red  # Color principal (navbar y botones)
+    accent: red  # Color de acentos
+  font:
+    text: Roboto  # Fuente para el texto
+    code: Fira Code  # Fuente para el código
 
 nav:
   - Inicio: index.md
@@ -122,7 +129,6 @@ nav:
               - 📖 Vocabulario: UNIDADES/3AV/15/teoria/extra/vocabulario.md
               - 📝 Ejercicios: UNIDADES/3AV/15/teoria/extra/ejercicios.md
   - 📂 Material Extra: UNIDADES/EXTRA/index.md
-
 
 plugins:
   - search
