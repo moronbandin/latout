@@ -36,7 +36,7 @@ next: ../4/
 - Oraciones coordinadas negativas introducidas por *neque*.  
 - Subordinadas de relativo.  
 - Subordinadas causales introducidas por *quia* (respondiendo a la cuestión *cūr*).  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+  
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
 

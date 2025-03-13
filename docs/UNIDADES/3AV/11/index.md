@@ -37,7 +37,7 @@
   - *atque, nec (= neque)*.  
 - Subordinadas sustantivas de *accusativus + infinitivus* con verbos de:  
   - ‘decir’, ‘pensar’, ‘sentir’...  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+  
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
 

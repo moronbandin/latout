@@ -35,7 +35,7 @@ next: ../3/
 - Numerales: *duo, duae, duo*; *trēs, tria*; *centum*.  
 - Función del genitivo.  
 - Oraciones coordinadas introducidas por *-que*.  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+  
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
 

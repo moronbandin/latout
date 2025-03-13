@@ -34,7 +34,7 @@
 - Subordinadas sustantivas o completivas: *accusativus + infinitivus* con verbos de percepción sensorial.  
 - Subordinadas temporales introducidas por *cum* (iterativo).  
 - Subordinadas causales introducidas por *quod*.  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+  
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
 

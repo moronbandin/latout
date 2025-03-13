@@ -28,7 +28,7 @@
 - Verbos: 3ª persona del plural de los verbos en presente indicativo; 2ª persona del plural del imperativo.  
 - Función del ablativo, singular y plural de los nombres en *-us, -a* y *-um*.  
 - Complementos circunstanciales con las preposiciones: *ab, cum, ex, in, sine* + ablativo.  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+  
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
 

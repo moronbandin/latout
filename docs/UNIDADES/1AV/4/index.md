@@ -38,7 +38,7 @@ next: ../5/
 - Modos indicativo e imperativo.  
 - Verbos compuestos de *esse*: *ad-esse* y *ab-esse*.  
 - Modalidad impresiva de la frase, expresada mediante el vocativo y el modo imperativo.  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+  
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
 

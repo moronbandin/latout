@@ -32,7 +32,7 @@
 - Complementos circunstanciales introducidos por las preposiciones:  
   - *suprā* + acusativo, *sub* + ablativo.  
 - Subordinadas temporales introducidas por *dum*.  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+  
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
 

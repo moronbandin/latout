@@ -1,0 +1,28 @@
+- **aperio, 4, aperui, apertum**: abrir  
+- **ante** (+ acus.): delante de  
+- **carpo, 3, carpsi, carptum**: coger, recoger (flores, frutos)  
+- **claudo, 3, clausi, clausum**: cerrar  
+- **cubiculum, -i** (n.): habitación, dormitorio  
+- **curro, 3, cucurri, cursum**: correr  
+- **exeo, exire, exii, exitum**: salir  
+- **exspecto, 1, exspectavi, exspectatum**: esperar  
+- **foedus, -a, -um**: feo, desagradable  
+- **formosus, -a, -um**: hermoso, bello  
+- **immo**: al contrario,   
+- **impero, 1, imperavi, imperatum**: ordenar, mandar  
+- **inest**: está dentro (de algo)  
+- **intra!**: ¡entra!  
+- **lacrima, -ae** (f.): lágrima  
+- **lacrimo, 1, lacrimavi, lacrimatum**: llorar  
+- **osculum, -i** (n.): beso  
+- **plenus, -a, -um**: lleno  
+- **pono, 3, posui, positum**: poner, colocar  
+- **rideo, 2, risi, risum**: reír  
+- **rosa, -ae** (f.): rosa  
+- **speculum, -i** (n.): espejo  
+- **sumo, 3, sumpsi, sumptum**: tomar, coger  
+- **teneo, 2, tenui, tentum**: sostener, tener  
+- **tergeo, 2, tersi, tersum**: secar, limpiar  
+- **verto, 3, verti, versum**: girar, volverse  
+- **vacuus, -a, -um**: vacío  
+- **voco, 1, vocavi, vocatum**: llamar  

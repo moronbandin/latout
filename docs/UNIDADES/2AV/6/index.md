@@ -32,8 +32,8 @@
 - Complementos de lugar con nombres de ciudad.  
 - El locativo.  
 - Voz activa y pasiva (presente de indicativo).  
-- Ablativo agente, ablativo separativo y ablativo instrumental.  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+- Ablativo agente, ablativo separativo y ablativo instrumental.    
+- `Qui, quae, quod` y estructura básica de la oración de relativo.
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
 

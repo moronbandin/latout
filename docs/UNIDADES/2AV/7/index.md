@@ -29,9 +29,10 @@
 - Verbos compuestos con *ad-, ab-, ex-, in-*.  
 - El complemento indirecto.  
 - Oraciones interrogativas introducidas por: *nōnne... est? Num... est?*  
-- Lectura comprensiva de las *lēctiōnēs* del capítulo y realización de los ejercicios correspondientes.  
+  
 - Lectura comprensiva de textos traducidos relacionados con los contenidos del capítulo.  
 - Ejercicios de retroversión con los contenidos gramaticales estudiados.  
+- Más usos del genitivo
 
 ## Cultura romana  
 ### La Familia Romana (V)  
