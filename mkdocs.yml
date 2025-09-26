@@ -1,137 +1,216 @@
 site_name: Latín
 site_url: https://moronbandin.github.io/latout
+
 theme:
   name: material
   language: es
+
+  # COLORES (modo claro/oscuro con conmutador)
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+
+  # TIPOGRAFÍAS
+  font:
+    text: "Inter"
+    code: "JetBrains Mono"
+
+  # LOGO y FAVICON (coloca los ficheros en docs/assets/)
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+
+  # FUNCIONALIDADES
   features:
     - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
     - navigation.sections
+    - navigation.indexes
+    - navigation.tracking
     - toc.integrate
-    - search.highlight
     - search.suggest
-  palette:
-    scheme: default  # Puedes cambiar a 'default', 'slate', 'dracula', etc.
-    primary: red  # Color principal (navbar y botones)
-    accent: red  # Color de acentos
-  font:
-    text: Roboto  # Fuente para el texto
-    code: Fira Code  # Fuente para el código
-
-nav:
-  - Inicio: index.md
-  - 📚 Unidades:
-      - Primer Trimestre (1AV): 
-          - Unidad 1:
-              - 📜 Introducción: UNIDADES/1AV/1/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/1/textos/1.md
-              - 📄 Texto en PDF: UNIDADES/1AV/1/textos/[1]imperium_romanum.pdf
-              - 📘 Teoría: UNIDADES/1AV/1/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/1AV/1/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/1AV/1/teoria/extra/ejercicios.md
-          - Unidad 2:
-              - 📜 Introducción: UNIDADES/1AV/2/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/2/textos/2.md
-              - 📄 Texto en PDF: UNIDADES/1AV/2/textos/[2]familia_romana.pdf
-              - 📘 Teoría: UNIDADES/1AV/2/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/1AV/2/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/1AV/2/teoria/extra/ejercicios.md
-          - Unidad 3:
-              - 📜 Introducción: UNIDADES/1AV/3/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/3/textos/3.md
-              - 📄 Texto en PDF: UNIDADES/1AV/3/textos/[3]puer_improbus.pdf
-              - 📘 Teoría: UNIDADES/1AV/3/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/1AV/3/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/1AV/3/teoria/extra/ejercicios.md
-          - Unidad 4:
-              - 📜 Introducción: UNIDADES/1AV/4/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/4/textos/4.md
-              - 📄 Texto en PDF: UNIDADES/1AV/4/textos/[4]dominus_et_servi.pdf
-              - 📘 Teoría: UNIDADES/1AV/4/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/1AV/4/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/1AV/4/teoria/extra/ejercicios.md
-          - Unidad 5:
-              - 📜 Introducción: UNIDADES/1AV/5/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/5/textos/5.md
-              - 📄 Texto en PDF: UNIDADES/1AV/5/textos/[5]villa_et_hortus.pdf
-              - 📘 Teoría: UNIDADES/1AV/5/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/1AV/5/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/1AV/5/teoria/extra/ejercicios.md
-      - Segundo Trimestre (2AV): 
-          - Unidad 6:
-              - 📜 Introducción: UNIDADES/2AV/6/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/6/textos/6.md
-              - 📄 Texto en PDF: UNIDADES/2AV/6/textos/[6]via_latina.pdf
-              - 📘 Teoría: UNIDADES/2AV/6/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/2AV/6/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/2AV/6/teoria/extra/ejercicios.md
-          - Unidad 7:
-              - 📜 Introducción: UNIDADES/2AV/7/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/7/textos/7.md
-              - 📄 Texto en PDF: UNIDADES/2AV/7/textos/[7]puella_et_rosa.pdf
-              - 📘 Teoría: UNIDADES/2AV/7/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/2AV/7/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/2AV/7/teoria/extra/ejercicios.md
-          - Unidad 8:
-              - 📜 Introducción: UNIDADES/2AV/8/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/8/textos/8.md
-              - 📄 Texto en PDF: UNIDADES/2AV/8/textos/[8]taberna_romana.pdf
-              - 📘 Teoría: UNIDADES/2AV/8/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/2AV/8/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/2AV/8/teoria/extra/ejercicios.md
-          - Unidad 9:
-              - 📜 Introducción: UNIDADES/2AV/9/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/9/textos/9.md
-              - 📄 Texto en PDF: UNIDADES/2AV/9/textos/[9]pastor_et_oves.pdf
-              - 📘 Teoría: UNIDADES/2AV/9/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/2AV/9/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/2AV/9/teoria/extra/ejercicios.md
-          - Unidad 10:
-              - 📜 Introducción: UNIDADES/3AV/10/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/10/textos/10.md
-              - 📄 Texto en PDF: UNIDADES/3AV/10/textos/[10]bestiae_et_homines.pdf
-              - 📘 Teoría: UNIDADES/3AV/10/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/3AV/10/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/3AV/10/teoria/extra/ejercicios.md
-      - Tercer Trimestre (3AV):
-          - Unidad 11:
-              - 📜 Introducción: UNIDADES/3AV/11/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/11/textos/11.md
-              - 📄 Texto en PDF: UNIDADES/3AV/11/textos/[11]corpus_humanum.pdf
-              - 📘 Teoría: UNIDADES/3AV/11/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/3AV/11/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/3AV/11/teoria/extra/ejercicios.md
-          - Unidad 12:
-              - 📜 Introducción: UNIDADES/3AV/12/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/12/textos/12.md
-              - 📄 Texto en PDF: UNIDADES/3AV/12/textos/[12]miles_romanus.pdf
-              - 📘 Teoría: UNIDADES/3AV/12/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/3AV/12/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/3AV/12/teoria/extra/ejercicios.md
-          - Unidad 13:
-              - 📜 Introducción: UNIDADES/3AV/13/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/13/textos/13.md
-              - 📄 Texto en PDF: UNIDADES/3AV/13/textos/[13]annus_et_menses.pdf
-              - 📘 Teoría: UNIDADES/3AV/13/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/3AV/13/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/3AV/13/teoria/extra/ejercicios.md
-          - Unidad 14:
-              - 📜 Introducción: UNIDADES/3AV/14/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/14/textos/14.md
-              - 📄 Texto en PDF: UNIDADES/3AV/14/textos/[14]novus_dies.pdf
-              - 📘 Teoría: UNIDADES/3AV/14/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/3AV/14/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/3AV/14/teoria/extra/ejercicios.md
-          - Unidad 15:
-              - 📜 Introducción: UNIDADES/3AV/15/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/15/textos/15.md
-              - 📄 Texto en PDF: UNIDADES/3AV/15/textos/[15]magister_et_discipuli.pdf
-              - 📘 Teoría: UNIDADES/3AV/15/teoria/apuntes.md
-              - 📖 Vocabulario: UNIDADES/3AV/15/teoria/extra/vocabulario.md
-              - 📝 Ejercicios: UNIDADES/3AV/15/teoria/extra/ejercicios.md
-  - 📂 Material Extra: UNIDADES/EXTRA/index.md
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - content.tabs.link
+    - header.autohide
 
 plugins:
   - search
+  - tags
 
+# Extensiones Markdown
+markdown_extensions:
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.highlight
+  - pymdownx.extra
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# CSS/JS extra
+extra_css:
+  - styles/extra.css
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+extra_javascript:
+  - js/extra.js
+  - https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js
+  - js/zoom-init.js
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - js/mermaid-init.js
+
+# Info del repo (botón “Editar esta página” y enlaces a GitHub)
+repo_url: https://github.com/moronbandin/latout
+repo_name: moronbandin/latout
+edit_uri: edit/main/docs/
+
+# Social (opcional)
 extra:
-  navigation.indexes: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/moronbandin
+      name: GitHub
+
+nav:
+  - Inicio: index.md
+
+  - 1AV:
+      - "UD1 · Unidad 1":
+          - "Portada": UNIDADES/1AV/1/index.md
+          - "Teoría": UNIDADES/1AV/1/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/1AV/1/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/1AV/1/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/1AV/1/textos/1.md
+          - "Texto (PDF)": "UNIDADES/1AV/1/textos/[1]imperium_romanum.pdf"
+      - "UD2 · Unidad 2":
+          - "Portada": UNIDADES/1AV/2/index.md
+          - "Teoría": UNIDADES/1AV/2/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/1AV/2/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/1AV/2/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/1AV/2/textos/2.md
+          - "Texto (PDF)": "UNIDADES/1AV/2/textos/[2]familia_romana.pdf"
+      - "UD3 · Unidad 3":
+          - "Portada": UNIDADES/1AV/3/index.md
+          - "Teoría": UNIDADES/1AV/3/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/1AV/3/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/1AV/3/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/1AV/3/textos/3.md
+          - "Texto (PDF)": "UNIDADES/1AV/3/textos/[3]puer_improbus.pdf"
+      - "UD4 · Unidad 4":
+          - "Portada": UNIDADES/1AV/4/index.md
+          - "Teoría": UNIDADES/1AV/4/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/1AV/4/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/1AV/4/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/1AV/4/textos/4.md
+          - "Texto (PDF)": "UNIDADES/1AV/4/textos/[4]dominus_et_servi.pdf"
+      - "UD5 · Unidad 5":
+          - "Portada": UNIDADES/1AV/5/index.md
+          - "Teoría": UNIDADES/1AV/5/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/1AV/5/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/1AV/5/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/1AV/5/textos/5.md
+          - "Texto (PDF)": "UNIDADES/1AV/5/textos/[5]villa_et_hortus.pdf"
+
+  - 2AV:
+      - "UD6 · Unidad 6":
+          - "Portada": UNIDADES/2AV/6/index.md
+          - "Teoría": UNIDADES/2AV/6/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/2AV/6/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/2AV/6/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/2AV/6/textos/6.md
+          - "Texto (PDF)": "UNIDADES/2AV/6/textos/[6]via_latina.pdf"
+      - "UD7 · Unidad 7":
+          - "Portada": UNIDADES/2AV/7/index.md
+          - "Teoría": UNIDADES/2AV/7/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/2AV/7/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/2AV/7/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/2AV/7/textos/7.md
+          - "Texto (PDF)": "UNIDADES/2AV/7/textos/[7]puella_et_rosa.pdf"
+      - "UD8 · Unidad 8":
+          - "Portada": UNIDADES/2AV/8/index.md
+          - "Teoría": UNIDADES/2AV/8/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/2AV/8/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/2AV/8/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/2AV/8/textos/8.md
+          - "Texto (PDF)": "UNIDADES/2AV/8/textos/[8]taberna_romana.pdf"
+      - "UD9 · Unidad 9":
+          - "Portada": UNIDADES/2AV/9/index.md
+          - "Teoría": UNIDADES/2AV/9/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/2AV/9/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/2AV/9/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/2AV/9/textos/9.md
+          - "Texto (PDF)": "UNIDADES/2AV/9/textos/[9]pastor_et_oves.pdf"
+
+  - 3AV:
+      - "UD10 · Unidad 10":
+          - "Portada": UNIDADES/3AV/10/index.md
+          - "Teoría": UNIDADES/3AV/10/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/3AV/10/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/3AV/10/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/3AV/10/textos/10.md
+          - "Texto (PDF)": "UNIDADES/3AV/10/textos/[10]bestiae_et_homines.pdf"
+      - "UD11 · Unidad 11":
+          - "Portada": UNIDADES/3AV/11/index.md
+          - "Teoría": UNIDADES/3AV/11/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/3AV/11/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/3AV/11/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/3AV/11/textos/11.md
+          - "Texto (PDF)": "UNIDADES/3AV/11/textos/[11]corpus_humanum.pdf"
+      - "UD12 · Unidad 12":
+          - "Portada": UNIDADES/3AV/12/index.md
+          - "Teoría": UNIDADES/3AV/12/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/3AV/12/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/3AV/12/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/3AV/12/textos/12.md
+          - "Texto (PDF)": "UNIDADES/3AV/12/textos/[12]miles_romanus.pdf"
+      - "UD13 · Unidad 13":
+          - "Portada": UNIDADES/3AV/13/index.md
+          - "Teoría": UNIDADES/3AV/13/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/3AV/13/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/3AV/13/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/3AV/13/textos/13.md
+          - "Texto (PDF)": "UNIDADES/3AV/13/textos/[13]annus_et_menses.pdf"
+      - "UD14 · Unidad 14":
+          - "Portada": UNIDADES/3AV/14/index.md
+          - "Teoría": UNIDADES/3AV/14/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/3AV/14/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/3AV/14/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/3AV/14/textos/14.md
+          - "Texto (PDF)": "UNIDADES/3AV/14/textos/[14]novus_dies.pdf"
+      - "UD15 · Unidad 15":
+          - "Portada": UNIDADES/3AV/15/index.md
+          - "Teoría": UNIDADES/3AV/15/teoria/apuntes.md
+          - "Vocabulario": UNIDADES/3AV/15/teoria/extra/vocabulario.md
+          - "Ejercicios": UNIDADES/3AV/15/teoria/extra/ejercicios.md
+          - "Texto (MD)": UNIDADES/3AV/15/textos/15.md
+          - "Texto (PDF)": "UNIDADES/3AV/15/textos/[15]magister_et_discipuli.pdf"
+
+  - "Extra":
+      - "Material Extra": UNIDADES/EXTRA/index.md
