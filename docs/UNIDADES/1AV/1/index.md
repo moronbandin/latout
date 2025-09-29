@@ -46,3 +46,5 @@ next: ./2/
 - Ubicación de las principales provincias romanas.  
 - Estudio del mapa inicial para que el alumnado ubique los países e islas más importantes.  
 - Familiarización con el entorno geográfico en el que transcurre la acción del libro.  
+
+
