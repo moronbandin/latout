@@ -98,8 +98,6 @@ Sempre concorda co verbo en número e persoa.
 > O predicado pode ser **nominal** (con atributo) ou **verbal** (con CD, CI, CC...).  
 > En latín, a función dos complementos recoñécese polos **casos**.  
 
-
-
 # Exercicios de sintaxe
 
 ### Localiza o suxeito das oracións seguintes. Indica se está explícito ou elidido.
