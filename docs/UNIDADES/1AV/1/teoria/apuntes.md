@@ -90,7 +90,7 @@ A palabra **_puella_** (“nena”) adopta distintas terminacións segundo a fun
 
 - **Ablativo**  
 
-    - **C. circunstancial** (medio, instrumento, compañía, etc.): *Virga pulsat* → “Golpéao **co bastón**”; *cum puella* → “**coa** nena”.
+    - **C. circunstancial** (medio, instrumento, compañía, etc.): *Baculo ambulat* → camiña **con bastón**”; *cum puella* → “**coa** nena”; *in foro* → "**no** foro"
 
 ---
 
