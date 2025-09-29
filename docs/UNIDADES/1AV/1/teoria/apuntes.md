@@ -82,7 +82,7 @@ A palabra **_puella_** (“nena”) adopta distintas terminacións segundo a fun
 - **Xenitivo**  
 
     - **C. do nome**: *Dominae filia* → “A filla **da señora**”.  
-    - **Rexencia verbal** (algúns verbos): *Memini Antoniae* → “Acordo-me de Antonia”.
+    - **Rexencia verbal** (algúns verbos): *Memini Antoniae* → Lémbrome de Antonia”.
 
 - **Dativo**  
 
