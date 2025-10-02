@@ -102,140 +102,143 @@ Sempre concorda co verbo en número e persoa.
 
 ### Localiza o suxeito das oracións seguintes. Indica se está explícito ou elidido.
 
-a) Hoxe non pensarei nos meus problemas.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1em;">
 
-b) Asustoume moito a súa forma de falar.
+<div>
+a) Hoxe non pensarei nos meus problemas.<br>
+b) Asustoume moito a súa forma de falar.<br>
+c) Queres dar un paseo polo campo?<br>
+d) María, mañá veñen os teus pais.<br>
+e) Estamos todos de acordo neste punto?<br>
+f) A min xa non me queda moito diñeiro.<br>
+g) Xa decidiu o seu destino de viaxe.<br>
+h) A vós que vos pasou esta tarde?<br>
+</div>
 
-c) Queres dar un paseo polo campo?
+<div>
+i) Como o pasades os máis pequenos!<br>
+j) Preguntou alguén por min?<br>
+k) Sempre nos toca o máis difícil.<br>
+l) O martelo tes que darllo ao seu dono.<br>
+m) A ninguén lle entusiasma o novo plan de estudos.<br>
+n) Moi interesante parece esa conferencia.<br>
+o) Chegoulle destrozado o material deportivo.<br>
+p) Esta tarde deron o premio do relato curto.<br>
+</div>
 
-d) María, mañá veñen os teus pais.
+</div>
 
-e) Estamos todos de acordo neste punto?
-
-f) A min xa non me queda moito diñeiro.
-
-g) Xa decidiu o seu destino de viaxe.
-
-h) A vós que vos pasou esta tarde?
-
-i) Como o pasades os máis pequenos!
-
-j) Preguntou alguén por min?
-
-k) Sempre nos toca o máis difícil.
-
-l) O martelo tes que darllo ao seu dono.
-
-m) A ninguén lle entusiasma o novo plan de estudos.
-
-n) Moi interesante parece esa conferencia.
-
-o) Chegoulle destrozado o material deportivo.
-
-p) Esta tarde deron o premio do relato curto.
 
 ---
 
 ### Di que oracións son **impersoais** entre as seguintes:
 
-* O teu curmán é policía?
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2em;">
 
-* Mañá non haberá Educación Física.
+<div>
+O teu curmán é policía?<br>
+Mañá non haberá Educación Física.<br>
+Tal vez haxa que facer os deberes.<br>
+Quen fixo este exercicio?<br>
+Vai demasiado calor na aula.<br>
+Abóndame con este material para a reparación.<br>
+</div>
 
-* Tal vez haxa que facer os deberes.
+<div>
+Non te basta coa miña desculpa?<br>
+Xoán será arquitecto no futuro.<br>
+Construíuse un centro deportivo de luxo no meu barrio.<br>
+Neste parque está moi tranquilo.<br>
+Por que chove tanto na costa mediterránea?<br>
+Sempre amence ben.<br>
+Xa é moi tarde para min.<br>
+</div>
 
-* Quen fixo este exercicio?
+</div>
 
-* Vai demasiado calor na aula.
-
-* Abóndame con este material para a reparación.
-
-* Non te basta coa miña desculpa?
-
-* Xoán será arquitecto no futuro.
-
-* Construíuse un centro deportivo de luxo no meu barrio.
-
-* Neste parque está moi tranquilo.
-
-* Por que chove tanto na costa mediterránea?
-
-* Sempre amence ben.
-
-* Xa é moi tarde para min.
 
 ---
 
 ### Di se o predicado das oracións seguintes é **nominal** ou **verbal**.
 
-Se é nominal, sinala o **atributo** e indica de que clase de sintagma se trata.
+!!! info "Recordatorio"
+    - Se é **nominal**, sinala o **atributo** e indica de que clase de sintagma se trata.  
+    - Se é **verbal**, sinala o **núcleo do predicado**.  
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2em; white-space: pre-line;">
 
-Se é verbal, sinala o **núcleo do predicado**.
-
+<div>
 a) O ano pasado a miña irmá estivo en Verín.
-
 b) Estiveches ti en Redondela?
-
 c) Xoán é da Coruña.
-
 d) Ten vontade de ir embora.
-
 e) Ao meu pai parecéronlle demasiado mal os nosos plans.
-
 f) As túas notas serán resultado do teu esforzo.
+</div>
 
+<div>
 g) Tocou o timbre antes de tempo.
-
 h) As estudantes organizáronse contra o profesorado.
-
 i) Non estou moi seguro de nada.
-
 j) Cantaron durante tres horas seguidas.
-
 k) O congreso foi en Lisboa o ano pasado.
-
 l) Aínda nos faltan varios episodios.
+</div>
 
+</div>
 
 
 ### Analiza a estrutura interna dos sintagmas subliñados. Que clase de sintagmas son? Que funcións desempeñan nas oracións en que aparecen?
 
-a) Os meus compañeiros de clase viven **lonxe do instituto**.
+!!! info "Recordatorio"
+    - Identifica a <strong>clase de sintagma</strong> (SN, SAdj, SAdv, SP…).  
+    - Indica a <strong>función sintáctica</strong> que exerce na oración (CC, CD, atributo, etc.).  
 
-b) Chegou **moi furioso** onte á reunión.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2em; white-space: pre-line;">
 
-c) Rogelio, o porteiro, foi expulsado **moi precipitadamente**.
+<div>
+a) Os meus compañeiros de clase viven <strong>lonxe do instituto</strong>.  
+b) Chegou <strong>moi furioso</strong> onte á reunión.  
+c) Rogelio, o porteiro, foi expulsado <strong>moi precipitadamente</strong>.  
+d) Contestoulle <strong>á súa irmá</strong> cun si rotundo.  
+</div>
 
-d) Contestoulle **á súa irmá** cun si rotundo.
+<div>
+e) Non te preocupes <strong>polo exame de debuxo</strong>.  
+f) Había <strong>moita xente indignada na manifestación do martes</strong>.  
+g) Ten un coche <strong>con faros amarelos</strong>.  
+h) Non queres <strong>máis café con leite</strong>?  
+</div>
 
-e) Non te preocupes **polo exame de debuxo**.
+</div>
 
-f) Había **moita xente indignada na manifestación do martes**.
-
-g) Ten un coche **con faros amarelos**.
-
-h) Non queres **máis café con leite**?
 
 ---
 
 ### Di se os sintagmas subliñados funcionan como atributo, complemento predicativo ou complemento circunstancial.
 
-a) Facede este traballo **con tranquilidade**.
+!!! info "Recordatorio"
+    - O <strong>atributo</strong> acompaña un verbo copulativo (ser, estar, parecer…).  
+    - O <strong>complemento predicativo</strong> acompaña o verbo e concorda co suxeito ou co CD.  
+    - O <strong>complemento circunstancial</strong> indica modo, tempo, lugar, causa, etc., sen concordar.  
 
-b) Non me parece **moi coherente** o seu comportamento.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2em; white-space: pre-line;">
 
-c) **Tan enfadado** saíu Luís da reunión?
+<div>
+a) Facede este traballo <strong>con tranquilidade</strong>.  
+b) Non me parece <strong>moi coherente</strong> o seu comportamento.  
+c) <strong>Tan enfadado</strong> saíu Luís da reunión?  
+d) Durante todo o día vimos <strong>demasiado inqueda</strong> a Marta.  
+</div>
 
-d) Durante todo o día vimos **demasiado inqueda** a Marta.
+<div>
+e) Non estás <strong>canso do traballo</strong>?  
+f) Contestoume <strong>con moi malos modos</strong>.  
+g) A directora recibiunos <strong>moi amablemente</strong>.  
+h) Falou <strong>tan enfurecido</strong> que estiven tres días <strong>aterrorizada</strong>.  
+</div>
 
-e) Non estás **canso do traballo**?
-
-f) Contestoume **con moi malos modos**.
-
-g) A diretora recibiunos **moi amablemente**.
-
-h) Falou **tan enfurecido** que estiven tres días **aterrorizada**.
+</div>
 
 ---
 
